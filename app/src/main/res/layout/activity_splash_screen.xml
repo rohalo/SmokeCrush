@@ -5,4 +5,4 @@
     android:layout_height="match_parent"
     tools:context=".SplashScreen"
     tools:ignore="MergeRootFrame"
-    android:background="#ffff7fa3" />
+    android:background="@drawable/SmokeCrush" />
